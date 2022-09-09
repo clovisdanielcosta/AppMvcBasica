@@ -86,7 +86,7 @@ namespace AppMvcBasica.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Fornecedor fornecedor)
+        public async Task<IActionResult> Edit(Guid id, Fornecedor fornecedor)
         {
             if (id != fornecedor.Id)
             {
