@@ -1,5 +1,5 @@
 <h1 align="center">
-:small_red_triangle_down: Basic NVC App 
+:small_red_triangle_down: Basic MVC App 
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center">
-Dominando ASP.NET MVC Core" by <b>Desenvolvedor.io</b>
+Dominando ASP.NET MVC Core by <b>Desenvolvedor.io</b>
 </h2>
 
 <p align="center">
@@ -20,5 +20,5 @@ to learning various aspects of ASP.NET MVC.
 </p>
 
 <p align="center">
-  <img alt="Gif animado do projeto" src="./img/dio-api-cripto.gif" width="100%">
+  <img alt="Gif animado do projeto" src="./img/app-mvc-basica.gif" width="100%">
 </p>
