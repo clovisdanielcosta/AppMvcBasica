@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img  alt="Logo ASPNET Core" src=".docs/img/aspnet.core.png" width="15%">
+  <img  alt="Logo ASPNET Core" src="./docs/img/aspnet.core.png" width="15%">
 </p>
 
 <h2 align="center">
