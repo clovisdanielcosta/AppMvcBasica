@@ -1,10 +1,10 @@
 ﻿@model AppMvcBasica.Models.Produto
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Alterar produto";
 }
 
-<h1>Edit</h1>
+<h1>@ViewData["Title"]</h1>
 
 <h4>Produto</h4>
 <hr />
@@ -49,14 +49,14 @@
             </div>
             <input type="hidden" asp-for="Id" />
             <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+                <a class="btn btn-dark" asp-action="Index">Voltar para lista</a>
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {
