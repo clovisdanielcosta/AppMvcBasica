@@ -20,5 +20,5 @@ to learning various aspects of ASP.NET MVC.
 </p>
 
 <p align="center">
-  <img alt="Gif animado do projeto" src="./img/app-mvc-basica.gif" width="100%">
+  <img alt="Gif animado do projeto" src="./docs/img/app-mvc-basica.gif" width="100%">
 </p>
